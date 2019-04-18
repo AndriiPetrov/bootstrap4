@@ -16,3 +16,7 @@ body {
 .row div:nth-child(even) {
     background: #51c645;
 } */
+
+img {
+    width: 300px;
+}
