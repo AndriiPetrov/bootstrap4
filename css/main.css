@@ -1,21 +1,19 @@
 body {
-    font-size: 30px;    
+    font-size: 14px;    
 }
-/* .container {
-    background: #d34768;
+.container {
+    margin-top: 10px;
 }
-.container-fluid {
-    background: #e58784;
+.col-12 {
+    margin-top: 20px;
 }
-.row {
-    background: #e3de4d;
+.was-validated .form-control:invalid {
+    border-color: blue;
 }
-.row div:nth-child(odd) {
-    background: #4e45c6;
+.was-validated .form-control:valid {
+    border-color: yellow;
 }
-.row div:nth-child(even) {
-    background: #51c645;
-} */
+
 
 /* img {
     width: 300px;
